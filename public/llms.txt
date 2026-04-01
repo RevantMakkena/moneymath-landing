@@ -1,0 +1,21 @@
+# MoneyMath
+
+> A suite of free financial tools for everyday money decisions. Built by Ojas Labs.
+
+## Products
+
+- Calculators (https://moneymath.pro): 28 free financial, health, and utility calculators including mortgage, compound interest, BMI, tax, paycheck, and more. No sign-up required.
+- Credit Card Rewards (coming soon): Compare credit cards, maximize rewards, and find the best card for your spending.
+- Public API (coming soon): Access credit card data and financial calculations programmatically.
+
+## About
+
+MoneyMath helps people understand their finances without jargon or sign-ups. All tools are free and run entirely in your browser.
+
+## Built By
+
+Ojas Labs (https://ojaslabs.dev) — an indie software studio.
+
+## Contact
+
+https://moneymath.pro/contact
