@@ -7,13 +7,16 @@ const siteUrl = "https://moneymath.pro";
 export const metadata: Metadata = {
   title: "MoneyMath — Free Financial Tools for Everyday Money Decisions",
   description:
-    "MoneyMath is a suite of free financial tools — mortgage calculators, credit card comparisons, and more. Understand your finances without jargon or sign-ups.",
+    "MoneyMath is a suite of 28 free financial calculators — mortgage, compound interest, paycheck, tax, retirement, and more. Understand your finances without jargon or sign-ups.",
   keywords: [
     "MoneyMath",
     "financial calculators",
     "mortgage calculator",
-    "credit card comparison",
+    "compound interest calculator",
+    "paycheck calculator",
     "free financial tools",
+    "tax calculator",
+    "retirement calculator",
   ],
   authors: [{ name: "Ojas Labs" }],
   metadataBase: new URL(siteUrl),

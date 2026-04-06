@@ -22,8 +22,8 @@ const faqs = [
     a: "28 and counting. Finance (mortgage, loan, compound interest, tax, paycheck, retirement, 401k, salary, and more), health (BMI, calorie, TDEE, macro), and utilities (unit converter, date, GPA, percentage).",
   },
   {
-    q: "When is the credit card rewards tool launching?",
-    a: "We're actively building it. It will include side-by-side card comparisons, a rewards optimizer, and a public API. Sign up on our site to get notified.",
+    q: "Can I share my calculation results?",
+    a: "Yes. Every calculator generates a shareable URL with your inputs encoded in it. Just copy the link from your browser and send it to anyone — they'll see the exact same results.",
   },
 ];
 

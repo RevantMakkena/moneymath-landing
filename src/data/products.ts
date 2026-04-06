@@ -1,4 +1,4 @@
-import { Calculator, CreditCard, Code } from "lucide-react";
+import { Calculator } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
 export interface Product {
@@ -6,7 +6,7 @@ export interface Product {
   tagline: string;
   description: string;
   icon: LucideIcon;
-  status: "live" | "coming-soon";
+  status: "live";
   url?: string;
   accent: string;
   accentBg: string;
@@ -23,26 +23,6 @@ export const products: Product[] = [
     url: "https://moneymath.pro",
     accent: "#0ea5e9",
     accentBg: "bg-sky-500/10 text-sky-500",
-  },
-  {
-    name: "Credit Card Rewards",
-    tagline: "Find your best card",
-    description:
-      "Side-by-side card comparisons, reward maximizers, and \"best card for X\" recommendations backed by real data.",
-    icon: CreditCard,
-    status: "coming-soon",
-    accent: "#10b981",
-    accentBg: "bg-emerald-500/10 text-emerald-500",
-  },
-  {
-    name: "Public API",
-    tagline: "Built for developers & AI",
-    description:
-      "Programmatic access to credit card data and financial calculations. OpenAPI spec, rate-limited, free tier.",
-    icon: Code,
-    status: "coming-soon",
-    accent: "#8b5cf6",
-    accentBg: "bg-violet-500/10 text-violet-500",
   },
 ];
 
