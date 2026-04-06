@@ -40,8 +40,6 @@ export default function HeroSection() {
 
   return (
     <section className="relative pt-28 pb-16 md:pt-36 md:pb-24 px-6 overflow-hidden">
-      <div className="hero-grid hero-fade absolute inset-0 pointer-events-none" />
-
       <div className="relative max-w-5xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 md:gap-16 items-center">
           {/* Left */}

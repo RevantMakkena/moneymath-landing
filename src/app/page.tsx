@@ -5,15 +5,19 @@ import ProductsSection from "@/components/ProductsSection";
 import PopularCalcs from "@/components/PopularCalcs";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
+import BackgroundDecoration from "@/components/BackgroundDecoration";
 
 export default function Home() {
   return (
     <>
       <Navbar />
       <main>
-        <HeroSection />
-        <StatsBar />
-        <ProductsSection />
+        <div className="relative">
+          <BackgroundDecoration />
+          <HeroSection />
+          <StatsBar />
+          <ProductsSection />
+        </div>
         <PopularCalcs />
         <FAQ />
       </main>
