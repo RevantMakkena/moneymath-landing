@@ -35,13 +35,13 @@ export default function Footer() {
                 <span className="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">
                   Product
                 </span>
-                <a href="https://moneymath.pro" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Calculators
                 </a>
-                <a href="https://moneymath.pro/mortgage" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro/mortgage" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Mortgage
                 </a>
-                <a href="https://moneymath.pro/compound" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro/compound" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Compound Interest
                 </a>
               </div>
@@ -49,13 +49,13 @@ export default function Footer() {
                 <span className="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">
                   Legal
                 </span>
-                <a href="https://moneymath.pro/privacy" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro/privacy" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Privacy
                 </a>
-                <a href="https://moneymath.pro/terms" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro/terms" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Terms
                 </a>
-                <a href="https://moneymath.pro/contact" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
+                <a href="https://calculators.moneymath.pro/contact" className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
                   Contact
                 </a>
               </div>

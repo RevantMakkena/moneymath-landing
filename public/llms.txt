@@ -4,34 +4,34 @@
 
 ## Calculators
 
-- [Mortgage Calculator](https://moneymath.pro/mortgage): Calculate monthly mortgage payments, total interest, and view amortization schedules for any loan amount, rate, and term.
-- [Compound Interest Calculator](https://moneymath.pro/compound): See how investments grow over time with compound interest and regular contributions.
-- [Paycheck Calculator](https://moneymath.pro/paycheck): Estimate take-home pay after federal and state taxes for all 50 US states.
-- [Tax Calculator](https://moneymath.pro/tax): Calculate federal and state income tax for any filing status and income level.
-- [Auto Loan Calculator](https://moneymath.pro/auto-loan): Estimate monthly car payments, total interest, and compare loan terms.
-- [Retirement Calculator](https://moneymath.pro/retirement): Project retirement savings and determine if you're on track for your goals.
-- [401(k) Calculator](https://moneymath.pro/401k): Estimate 401(k) growth with employer matching and contribution limits.
-- [Salary Calculator](https://moneymath.pro/salary): Convert between hourly, weekly, biweekly, monthly, and annual pay.
-- [Student Loan Calculator](https://moneymath.pro/student-loan): Calculate student loan payments and total repayment cost across different plans.
-- [House Affordability Calculator](https://moneymath.pro/house-affordability): Determine how much house you can afford based on income, debts, and down payment.
-- [Tip Calculator](https://moneymath.pro/tip): Calculate tip amounts and split bills between multiple people.
-- [BMI Calculator](https://moneymath.pro/bmi): Calculate Body Mass Index and see where you fall on the BMI scale.
-- [Calorie Calculator](https://moneymath.pro/calorie): Estimate daily calorie needs based on age, weight, height, and activity level.
-- [TDEE Calculator](https://moneymath.pro/tdee): Calculate Total Daily Energy Expenditure for weight management.
-- [Macro Calculator](https://moneymath.pro/macro): Get personalized macronutrient targets for your fitness goals.
-- [Unit Converter](https://moneymath.pro/unit-converter): Convert between units of length, weight, temperature, volume, and more.
-- [Date Calculator](https://moneymath.pro/date): Calculate days between dates, add or subtract days from a date.
-- [GPA Calculator](https://moneymath.pro/gpa): Calculate cumulative GPA from course grades and credit hours.
-- [Percentage Calculator](https://moneymath.pro/percentage): Calculate percentages, percentage change, and percentage of a number.
-- [Inflation Calculator](https://moneymath.pro/inflation): See how purchasing power changes over time due to inflation.
-- [Net Worth Calculator](https://moneymath.pro/net-worth): Track assets and liabilities to calculate your total net worth.
-- [Debt Payoff Calculator](https://moneymath.pro/debt-payoff): Compare debt snowball vs avalanche strategies and see payoff timelines.
-- [Emergency Fund Calculator](https://moneymath.pro/emergency-fund): Determine how much you need in an emergency fund based on your expenses.
-- [Rent vs Buy Calculator](https://moneymath.pro/rent-vs-buy): Compare the long-term financial impact of renting versus buying a home.
-- [Investment Return Calculator](https://moneymath.pro/investment-return): Calculate ROI and annualized returns on investments.
-- [Savings Goal Calculator](https://moneymath.pro/savings-goal): Figure out how much to save monthly to reach a financial goal.
-- [Loan Comparison Calculator](https://moneymath.pro/loan-comparison): Compare multiple loan offers side by side.
-- [Amortization Calculator](https://moneymath.pro/amortization): Generate detailed amortization schedules for any loan.
+- [Mortgage Calculator](https://calculators.moneymath.pro/mortgage): Calculate monthly mortgage payments, total interest, and view amortization schedules for any loan amount, rate, and term.
+- [Compound Interest Calculator](https://calculators.moneymath.pro/compound): See how investments grow over time with compound interest and regular contributions.
+- [Paycheck Calculator](https://calculators.moneymath.pro/paycheck): Estimate take-home pay after federal and state taxes for all 50 US states.
+- [Tax Calculator](https://calculators.moneymath.pro/tax): Calculate federal and state income tax for any filing status and income level.
+- [Auto Loan Calculator](https://calculators.moneymath.pro/auto-loan): Estimate monthly car payments, total interest, and compare loan terms.
+- [Retirement Calculator](https://calculators.moneymath.pro/retirement): Project retirement savings and determine if you're on track for your goals.
+- [401(k) Calculator](https://calculators.moneymath.pro/401k): Estimate 401(k) growth with employer matching and contribution limits.
+- [Salary Calculator](https://calculators.moneymath.pro/salary): Convert between hourly, weekly, biweekly, monthly, and annual pay.
+- [Student Loan Calculator](https://calculators.moneymath.pro/student-loan): Calculate student loan payments and total repayment cost across different plans.
+- [House Affordability Calculator](https://calculators.moneymath.pro/house-affordability): Determine how much house you can afford based on income, debts, and down payment.
+- [Tip Calculator](https://calculators.moneymath.pro/tip): Calculate tip amounts and split bills between multiple people.
+- [BMI Calculator](https://calculators.moneymath.pro/bmi): Calculate Body Mass Index and see where you fall on the BMI scale.
+- [Calorie Calculator](https://calculators.moneymath.pro/calorie): Estimate daily calorie needs based on age, weight, height, and activity level.
+- [TDEE Calculator](https://calculators.moneymath.pro/tdee): Calculate Total Daily Energy Expenditure for weight management.
+- [Macro Calculator](https://calculators.moneymath.pro/macro): Get personalized macronutrient targets for your fitness goals.
+- [Unit Converter](https://calculators.moneymath.pro/unit-converter): Convert between units of length, weight, temperature, volume, and more.
+- [Date Calculator](https://calculators.moneymath.pro/date): Calculate days between dates, add or subtract days from a date.
+- [GPA Calculator](https://calculators.moneymath.pro/gpa): Calculate cumulative GPA from course grades and credit hours.
+- [Percentage Calculator](https://calculators.moneymath.pro/percentage): Calculate percentages, percentage change, and percentage of a number.
+- [Inflation Calculator](https://calculators.moneymath.pro/inflation): See how purchasing power changes over time due to inflation.
+- [Net Worth Calculator](https://calculators.moneymath.pro/net-worth): Track assets and liabilities to calculate your total net worth.
+- [Debt Payoff Calculator](https://calculators.moneymath.pro/debt-payoff): Compare debt snowball vs avalanche strategies and see payoff timelines.
+- [Emergency Fund Calculator](https://calculators.moneymath.pro/emergency-fund): Determine how much you need in an emergency fund based on your expenses.
+- [Rent vs Buy Calculator](https://calculators.moneymath.pro/rent-vs-buy): Compare the long-term financial impact of renting versus buying a home.
+- [Investment Return Calculator](https://calculators.moneymath.pro/investment-return): Calculate ROI and annualized returns on investments.
+- [Savings Goal Calculator](https://calculators.moneymath.pro/savings-goal): Figure out how much to save monthly to reach a financial goal.
+- [Loan Comparison Calculator](https://calculators.moneymath.pro/loan-comparison): Compare multiple loan offers side by side.
+- [Amortization Calculator](https://calculators.moneymath.pro/amortization): Generate detailed amortization schedules for any loan.
 
 ## About
 

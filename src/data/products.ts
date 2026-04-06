@@ -20,7 +20,7 @@ export const products: Product[] = [
       "Mortgage, compound interest, paycheck, tax, BMI, and 22 more. All run in your browser — nothing stored, nothing tracked.",
     icon: Calculator,
     status: "live",
-    url: "https://moneymath.pro",
+    url: "https://calculators.moneymath.pro",
     accent: "#0ea5e9",
     accentBg: "bg-sky-500/10 text-sky-500",
   },

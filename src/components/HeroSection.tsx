@@ -155,7 +155,7 @@ export default function HeroSection() {
               {/* Footer link */}
               <div className="px-6 py-4 md:px-8 border-t border-gray-100 dark:border-zinc-800 bg-gray-50/50 dark:bg-zinc-800/30">
                 <a
-                  href="https://moneymath.pro/mortgage"
+                  href="https://calculators.moneymath.pro/mortgage"
                   className="text-sm text-sky-500 hover:text-sky-400 font-medium transition-colors inline-flex items-center gap-1"
                 >
                   Run your own numbers

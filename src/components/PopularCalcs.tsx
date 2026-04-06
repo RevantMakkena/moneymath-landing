@@ -1,7 +1,7 @@
 import { popularCalcs } from "@/data/products";
 import { ArrowUpRight } from "lucide-react";
 
-const baseUrl = "https://moneymath.pro";
+const baseUrl = "https://calculators.moneymath.pro";
 
 export default function PopularCalcs() {
   return (
