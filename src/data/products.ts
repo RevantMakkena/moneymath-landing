@@ -15,14 +15,14 @@ export interface Product {
 export const products: Product[] = [
   {
     name: "Calculators",
-    tagline: "28 tools, zero sign-ups",
+    tagline: "32 tools, zero sign-ups",
     description:
-      "Mortgage, compound interest, paycheck, tax, BMI, and 22 more. All run in your browser — nothing stored, nothing tracked.",
+      "Mortgage, compound interest, paycheck, tax, BMI, and 27 more. All run in your browser — nothing stored, nothing tracked.",
     icon: Calculator,
     status: "live",
     url: "https://calculators.moneymath.pro",
-    accent: "#0ea5e9",
-    accentBg: "bg-sky-500/10 text-sky-500",
+    accent: "#2563eb",
+    accentBg: "bg-blue-600/10 text-blue-600",
   },
 ];
 

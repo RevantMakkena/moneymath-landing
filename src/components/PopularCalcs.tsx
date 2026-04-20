@@ -15,7 +15,7 @@ export default function PopularCalcs() {
             <a
               key={calc.path}
               href={`${baseUrl}${calc.path}`}
-              className="calc-card inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-sm text-gray-700 dark:text-gray-300 hover:text-sky-500 dark:hover:text-sky-400 hover:border-sky-200 dark:hover:border-sky-500/30 transition-colors"
+              className="calc-card inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-sm text-gray-700 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 hover:border-blue-200 dark:hover:border-blue-500/30 transition-colors"
             >
               {calc.name}
               <ArrowUpRight className="w-3 h-3 opacity-0 group-hover:opacity-100 text-gray-400" />

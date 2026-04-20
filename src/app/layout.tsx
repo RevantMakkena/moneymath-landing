@@ -7,7 +7,7 @@ const siteUrl = "https://moneymath.pro";
 export const metadata: Metadata = {
   title: "MoneyMath — Free Financial Tools for Everyday Money Decisions",
   description:
-    "MoneyMath is a suite of 28 free financial calculators — mortgage, compound interest, paycheck, tax, retirement, and more. Understand your finances without jargon or sign-ups.",
+    "MoneyMath is a suite of 32 free financial calculators — mortgage, compound interest, paycheck, tax, retirement, and more. Understand your finances without jargon or sign-ups.",
   keywords: [
     "MoneyMath",
     "financial calculators",

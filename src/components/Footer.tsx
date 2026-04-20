@@ -9,7 +9,7 @@ export default function Footer() {
             {/* Brand */}
             <div>
               <div className="flex items-center gap-2.5 mb-2">
-                <div className="w-6 h-6 rounded-md bg-sky-500 flex items-center justify-center">
+                <div className="w-6 h-6 rounded-md bg-blue-500 flex items-center justify-center">
                   <span className="text-white font-bold text-xs">M</span>
                 </div>
                 <span className="text-base font-semibold text-gray-900 dark:text-white">

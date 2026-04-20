@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: "What calculators do you have?",
-    a: "28 and counting. Finance (mortgage, loan, compound interest, tax, paycheck, retirement, 401k, salary, and more), health (BMI, calorie, TDEE, macro), and utilities (unit converter, date, GPA, percentage).",
+    a: "32 and counting. Finance (mortgage, loan, compound interest, tax, paycheck, retirement, 401k, salary, and more), health (BMI, calorie, TDEE, macro), and utilities (unit converter, date, GPA, percentage).",
   },
   {
     q: "Can I share my calculation results?",
@@ -37,7 +37,7 @@ function FAQItem({ q, a, index }: { q: string; a: string; index: number }) {
           onClick={() => setOpen(!open)}
           className="w-full flex items-center justify-between py-5 text-left cursor-pointer group"
         >
-          <span className="text-base font-medium text-gray-900 dark:text-white pr-4 group-hover:text-sky-500 transition-colors">
+          <span className="text-base font-medium text-gray-900 dark:text-white pr-4 group-hover:text-blue-500 transition-colors">
             {q}
           </span>
           <ChevronDown
@@ -64,7 +64,7 @@ export default function FAQ() {
     <section className="py-20 px-6">
       <div className="max-w-3xl mx-auto">
         <FadeIn>
-          <p className="text-sm font-medium text-sky-500 uppercase tracking-wider mb-3">
+          <p className="text-sm font-medium text-blue-500 uppercase tracking-wider mb-3">
             FAQ
           </p>
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-10">

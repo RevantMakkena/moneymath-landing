@@ -44,7 +44,7 @@ export default function HeroSection() {
         <div className="grid md:grid-cols-2 gap-12 md:gap-16 items-center">
           {/* Left */}
           <div>
-            <p className="text-sm font-medium text-sky-500 mb-4 tracking-wide uppercase">
+            <p className="text-sm font-medium text-blue-500 mb-4 tracking-wide uppercase">
               Free financial tools
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white tracking-tight leading-[1.1] mb-6">
@@ -63,7 +63,7 @@ export default function HeroSection() {
             <div className="flex flex-wrap gap-3">
               <a
                 href="https://calculators.moneymath.pro"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-sky-500/20"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-lg transition-all hover:shadow-lg hover:shadow-blue-500/20"
               >
                 Try the calculators
                 <ArrowRight className="w-4 h-4" />
@@ -88,7 +88,7 @@ export default function HeroSection() {
                       onClick={() => setActivePreset(i)}
                       className={`px-3 py-1.5 text-sm font-medium rounded-lg transition-all cursor-pointer ${
                         i === activePreset
-                          ? "bg-sky-500 text-white shadow-sm"
+                          ? "bg-blue-500 text-white shadow-sm"
                           : "bg-gray-100 dark:bg-zinc-800 text-gray-500 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-zinc-700"
                       }`}
                     >
@@ -126,7 +126,7 @@ export default function HeroSection() {
                   <span className="text-gray-500 dark:text-gray-400">
                     Total interest
                   </span>
-                  <span className="text-sky-500 font-medium tabular-nums">
+                  <span className="text-blue-500 font-medium tabular-nums">
                     {fmt(calc.interest)}
                   </span>
                 </div>
@@ -135,11 +135,11 @@ export default function HeroSection() {
                 <div className="pt-3">
                   <div className="h-2 rounded-full bg-gray-100 dark:bg-zinc-800 overflow-hidden flex">
                     <div
-                      className="h-full bg-sky-500 rounded-l-full transition-all duration-500"
+                      className="h-full bg-blue-500 rounded-l-full transition-all duration-500"
                       style={{width: `${(principal / calc.total) * 100}%`}}
                     />
                     <div
-                      className="h-full bg-sky-300 dark:bg-sky-400/40 rounded-r-full transition-all duration-500"
+                      className="h-full bg-blue-300 dark:bg-blue-400/40 rounded-r-full transition-all duration-500"
                       style={{width: `${(calc.interest / calc.total) * 100}%`}}
                     />
                   </div>
@@ -154,7 +154,7 @@ export default function HeroSection() {
               <div className="px-6 py-4 md:px-8 border-t border-gray-100 dark:border-zinc-800 bg-gray-50/50 dark:bg-zinc-800/30">
                 <a
                   href="https://calculators.moneymath.pro/mortgage"
-                  className="text-sm text-sky-500 hover:text-sky-400 font-medium transition-colors inline-flex items-center gap-1"
+                  className="text-sm text-blue-500 hover:text-blue-400 font-medium transition-colors inline-flex items-center gap-1"
                 >
                   Run your own numbers
                   <ArrowRight className="w-3.5 h-3.5" />
@@ -163,7 +163,7 @@ export default function HeroSection() {
             </div>
 
             {/* Glow */}
-            <div className="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] rounded-full bg-sky-500/5 dark:bg-sky-500/10 blur-3xl" />
+            <div className="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] rounded-full bg-blue-500/5 dark:bg-blue-500/10 blur-3xl" />
           </div>
         </div>
       </div>

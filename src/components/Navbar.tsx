@@ -31,7 +31,7 @@ export default function Navbar() {
     >
       <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
         <div className="flex items-center gap-2.5">
-          <div className="w-7 h-7 rounded-lg bg-sky-500 flex items-center justify-center">
+          <div className="w-7 h-7 rounded-lg bg-blue-500 flex items-center justify-center">
             <span className="text-white font-bold text-sm">M</span>
           </div>
           <span className="text-lg font-semibold text-gray-900 dark:text-white tracking-tight">

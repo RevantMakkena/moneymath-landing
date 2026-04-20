@@ -43,7 +43,7 @@ export default function ProductCard({
       </p>
 
       {url && (
-        <span className="inline-flex items-center gap-1 text-sm font-medium text-sky-500 group-hover:text-sky-400 transition-colors">
+        <span className="inline-flex items-center gap-1 text-sm font-medium text-blue-500 group-hover:text-blue-400 transition-colors">
           Explore
           <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />
         </span>
