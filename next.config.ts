@@ -20,13 +20,6 @@ const STATE_VARIANT_PREFIXES = ["/mortgage", "/tax", "/paycheck", "/cost-of-livi
 const nextConfig: NextConfig = {
   async redirects() {
     return [
-      // Canonical host: www → apex (consolidates duplicate indexing)
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "www.moneymath.pro" }],
-        destination: "https://moneymath.pro/:path*",
-        permanent: true,
-      },
       ...CALC_PATHS.map((path) => ({
         source: path,
         destination: `${CALC_SUBDOMAIN}${path}`,
