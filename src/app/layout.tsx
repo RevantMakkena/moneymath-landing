@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Ojas Labs" }],
   metadataBase: new URL(siteUrl),
+  alternates: {
+    canonical: "/",
+  },
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
   },
