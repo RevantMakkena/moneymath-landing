@@ -3,29 +3,7 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 import FadeIn from "./FadeIn";
-
-const faqs = [
-  {
-    q: "Is MoneyMath really free?",
-    a: "Yes. Every calculator and tool is completely free with no sign-up required. We don't sell your data or put answers behind paywalls.",
-  },
-  {
-    q: "How accurate are the calculators?",
-    a: "Our calculators use the same standard formulas used by banks and financial institutions. For mortgages, we use standard amortization math. For taxes, we use current federal and state brackets for all 50 states.",
-  },
-  {
-    q: "Is my data stored or tracked?",
-    a: "No. All calculations run entirely in your browser. Nothing is sent to a server, nothing is stored, and we don't use cookies to track your inputs.",
-  },
-  {
-    q: "What calculators do you have?",
-    a: "32 and counting. Finance (mortgage, loan, compound interest, tax, paycheck, retirement, 401k, salary, and more), health (BMI, calorie, TDEE, macro), and utilities (unit converter, date, GPA, percentage).",
-  },
-  {
-    q: "Can I share my calculation results?",
-    a: "Yes. Every calculator generates a shareable URL with your inputs encoded in it. Just copy the link from your browser and send it to anyone — they'll see the exact same results.",
-  },
-];
+import { landingFaqs } from "@/data/siteAeo";
 
 function FAQItem({ q, a, index }: { q: string; a: string; index: number }) {
   const [open, setOpen] = useState(false);
@@ -73,7 +51,7 @@ export default function FAQ() {
         </FadeIn>
 
         <div>
-          {faqs.map((faq, i) => (
+          {landingFaqs.map((faq, i) => (
             <FAQItem key={i} q={faq.q} a={faq.a} index={i} />
           ))}
         </div>

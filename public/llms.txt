@@ -1,6 +1,6 @@
 # MoneyMath
 
-> MoneyMath is a suite of 28 free financial, health, and utility calculators. All tools run entirely in your browser with no sign-up, no tracking, and no data stored. Built by Ojas Labs.
+> MoneyMath is a suite of 32 free financial, health, and utility calculators. All tools run entirely in your browser with no sign-up, no tracking, and no data stored. Built by Ojas Labs.
 
 ## Calculators
 
@@ -24,14 +24,14 @@
 - [GPA Calculator](https://calculators.moneymath.pro/gpa): Calculate cumulative GPA from course grades and credit hours.
 - [Percentage Calculator](https://calculators.moneymath.pro/percentage): Calculate percentages, percentage change, and percentage of a number.
 - [Inflation Calculator](https://calculators.moneymath.pro/inflation): See how purchasing power changes over time due to inflation.
-- [Net Worth Calculator](https://calculators.moneymath.pro/net-worth): Track assets and liabilities to calculate your total net worth.
 - [Debt Payoff Calculator](https://calculators.moneymath.pro/debt-payoff): Compare debt snowball vs avalanche strategies and see payoff timelines.
-- [Emergency Fund Calculator](https://calculators.moneymath.pro/emergency-fund): Determine how much you need in an emergency fund based on your expenses.
 - [Rent vs Buy Calculator](https://calculators.moneymath.pro/rent-vs-buy): Compare the long-term financial impact of renting versus buying a home.
-- [Investment Return Calculator](https://calculators.moneymath.pro/investment-return): Calculate ROI and annualized returns on investments.
-- [Savings Goal Calculator](https://calculators.moneymath.pro/savings-goal): Figure out how much to save monthly to reach a financial goal.
-- [Loan Comparison Calculator](https://calculators.moneymath.pro/loan-comparison): Compare multiple loan offers side by side.
 - [Amortization Calculator](https://calculators.moneymath.pro/amortization): Generate detailed amortization schedules for any loan.
+- [Cost of Living Calculator](https://calculators.moneymath.pro/cost-of-living): Compare living costs and required salary across states.
+- [Self-Employment Tax Calculator](https://calculators.moneymath.pro/self-employment-tax): Estimate freelancer and 1099 taxes, quarterly payments, and deduction impact.
+- [1099 vs W-2 Calculator](https://calculators.moneymath.pro/1099-vs-w2): Compare contractor and employee offers with taxes, benefits, and break-even hourly rates.
+- [FIRE Calculator](https://calculators.moneymath.pro/fire): Estimate financial independence timelines, Coast FIRE milestones, and withdrawal scenarios.
+- [Capital Gains Tax Calculator](https://calculators.moneymath.pro/capital-gains): Estimate capital gains taxes and compare tax-lot sale strategies.
 
 ## About
 
